@@ -1,1 +1,1 @@
-web: gunicorn app-api.wsgi --log-file -
+web: gunicorn sppapi.wsgi --log-file -
